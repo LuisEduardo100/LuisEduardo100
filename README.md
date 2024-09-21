@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Luis Eduardo de Paula Albuquerque</h1>
 <h3 align="center">Estudante de Ciências da Computação (UNIFOR)</h3>
 
-- 🔭 Estou atualmente trabalhando em um site [Nota Dez](https://nota-dez3.vercel.app/)
+- 🔭 Estou atualmente trabalhando em uma plataforma EAD chamada Nota Dez!
 
 - 🌱 Estou atualmente aprendendo **JavaScript**
 
