@@ -3,9 +3,7 @@
 
 - 🔭 Projto recente: <a href="https://vocenotadez.com" target="_blank">Reforço Você Nota Dez</a>
 
-- 🌱 Estou atualmente aprendendo **JavaScript**
-
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript**
+- 💬 Pergunte-me sobre desenvolvimento web fullstack
 
 - 📫 Como chegar a mim **luisedu.lepa@gmail.com**
 
