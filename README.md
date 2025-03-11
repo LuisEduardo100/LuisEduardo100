@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Luis Eduardo de Paula Albuquerque</h1>
 <h3 align="center">Estudante de Ciências da Computação (UNIFOR)</h3>
 
-- 🔭 Projto recente: https://vocenotadez.com
+- 🔭 Projto recente: <a href="https://vocenotadez.com" target="_blank">Reforço Você Nota Dez</a>
 
 - 🌱 Estou atualmente aprendendo **JavaScript**
 
