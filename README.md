@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="marginRight: 6px"> 
+<p align="left" style="margin-right: 6px; display: inline-block;"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/html.png" alt="HTML" width="50" height="50"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" alt="CSS" width="50" height="50"/> 
