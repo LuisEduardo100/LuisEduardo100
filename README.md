@@ -34,8 +34,8 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="400" height: "300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="400" height: "300"/>
 </div>
 
 ---
