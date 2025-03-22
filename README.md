@@ -2,7 +2,7 @@
 
 ### Eu sou Luis Eduardo de Paula Albuquerque
 🎓 Estudante de **Ciências da Computação** (UNIFOR) <br>
-💻 Apaixonado por **desenvolvimento web fullstack**
+💻 Apaixonado por **desenvolvimento web fullstack** <br>
 ⚡ Sempre buscando aprender e evoluir!
 🔭 [Reforço Você Nota Dez](https://vocenotadez.com)
 
@@ -45,7 +45,7 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="420" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="420" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="420" height="200"/>
 </div>
 
