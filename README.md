@@ -4,6 +4,7 @@
 🎓 Estudante de **Ciências da Computação** (UNIFOR) <br>
 💻 Apaixonado por **desenvolvimento web fullstack**
 
+
 ---
 
 ### 🚀 Projeto Recente
@@ -33,9 +34,9 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="400" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="400" height="200"/>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="420" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="420" height="200"/>
 </div>
 
 ---
