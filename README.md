@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JavaScript" width="50" height="50"/>
@@ -33,9 +33,9 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="400" height: "300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="400" height: "300"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="400" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="400" height="200"/>
 </div>
 
 ---
