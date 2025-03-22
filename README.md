@@ -30,7 +30,7 @@
 ---
 
 ### 🤓 Aprendendo sobre
-<div align="center">
+<div align="left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
@@ -44,8 +44,8 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="420" height="200"/>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardo100&show_icons=true&theme=tokyonight" width="420" height="50"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo100&theme=tokyonight" width="420" height="200"/>
 </div>
 
