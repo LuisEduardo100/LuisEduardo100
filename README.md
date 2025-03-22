@@ -2,7 +2,7 @@
 
 ### Eu sou Luis Eduardo de Paula Albuquerque
 🎓 Estudante de **Ciências da Computação** (UNIFOR) <br>
-💻 Apaixonado por **desenvolvimento web fullstack** <br>
+💻 Aprimorando meus conhecimentos em **desenvolvimento web fullstack** <br>
 ⚡ Sempre buscando aprender e evoluir! <br>
 🔭 [Reforço Você Nota Dez](https://vocenotadez.com) 
 
